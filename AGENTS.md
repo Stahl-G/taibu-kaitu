@@ -74,3 +74,5 @@ pnpm test           # 自动先构建 packages/core、mcp、mcp-server，再跑�
 - [ ] 错误路径可观测（错误码/错误信息一致）。
 - [ ] 测试、lint 与 build 已通过，或已明确说明未执行原因。
 - [ ] 文档已同步（如涉及接口、配置、迁移、行为变化）。
+
+- Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.
